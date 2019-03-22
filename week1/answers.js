@@ -3,11 +3,11 @@
 //Push your results when finished
 
 const answers = {
-    1: "b",
+    1: "b (d)",
     2: "d",
     3: "c",
     4: "d",
-    5: "c",
+    5: "c (f)",
     6: "d",
     7: "c",
     8: "c",
